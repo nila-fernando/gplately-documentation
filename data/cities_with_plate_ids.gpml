@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-17c4dc9b-92be-4e47-9ea9-19450331c258</gpml:identity>
-            <gpml:revision>GPlates-0776891b-c34f-41be-bdbf-13b41bdf4a42</gpml:revision>
+            <gpml:identity>GPlates-976deaf9-526e-4410-844b-7ee4ead3f8af</gpml:identity>
+            <gpml:revision>GPlates-882b542f-9d7f-45d6-9c19-250ca5a02b07</gpml:revision>
             <gml:name>Sydney</gml:name>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
@@ -44,8 +44,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-528e1b7c-8751-4acb-80e3-e56840168eee</gpml:identity>
-            <gpml:revision>GPlates-5f621d7d-06db-4a4e-a6a8-1504e6dec13f</gpml:revision>
+            <gpml:identity>GPlates-769dc917-875b-42b1-89b6-8f795505119c</gpml:identity>
+            <gpml:revision>GPlates-8f3e4155-c57e-4012-9e01-4883798e691e</gpml:revision>
             <gml:name>London</gml:name>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
@@ -86,8 +86,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-b06d5d2f-4e76-4746-9eb8-4585f28709c0</gpml:identity>
-            <gpml:revision>GPlates-95196f97-1321-424e-a827-ac483414cc82</gpml:revision>
+            <gpml:identity>GPlates-7ca49ac7-e540-4c8c-97ec-172eff4c1328</gpml:identity>
+            <gpml:revision>GPlates-61c8f703-d7a1-4ece-a2ec-194fb6762007</gpml:revision>
             <gml:name>Tokyo</gml:name>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
@@ -128,8 +128,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-69484f22-06e7-4152-afd5-1b298bc42bbd</gpml:identity>
-            <gpml:revision>GPlates-009972f0-a48a-471e-872f-0c75af3b8b24</gpml:revision>
+            <gpml:identity>GPlates-e5d03aa3-a19c-4dad-810c-0af7eab58ee5</gpml:identity>
+            <gpml:revision>GPlates-6299ebe3-98e3-4c53-8076-126f98a07a2c</gpml:revision>
             <gml:name>Cairo</gml:name>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
@@ -170,8 +170,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-2e485e09-c508-4630-be49-221aa2f10b72</gpml:identity>
-            <gpml:revision>GPlates-7d70452d-39d9-4979-ab5d-32d05bc27d73</gpml:revision>
+            <gpml:identity>GPlates-a63a0008-99df-4530-8897-5feaa85a4115</gpml:identity>
+            <gpml:revision>GPlates-24f02306-40ba-4faa-bf1c-73af5947caac</gpml:revision>
             <gml:name>Rio de Janeiro</gml:name>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
@@ -212,8 +212,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ec6f66fe-d7dd-4caf-9f1b-d8dc9064fb07</gpml:identity>
-            <gpml:revision>GPlates-f3f9c2b2-4d6e-4e2f-9a07-8e27480aa6e1</gpml:revision>
+            <gpml:identity>GPlates-6da435a6-95b0-4d3f-828c-78854ae057bc</gpml:identity>
+            <gpml:revision>GPlates-c4bac3a9-237e-4096-bcb3-e045acf0d6da</gpml:revision>
             <gml:name>New York</gml:name>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
