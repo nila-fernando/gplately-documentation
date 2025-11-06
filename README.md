@@ -10,8 +10,10 @@ To run these notebooks locally:
 
 Clone this repository:
 
-```git clone https://github.com/[username]/GPlately-basics.git
-cd GPlately-basics```
+```
+git clone https://github.com/[username]/GPlately-basics.git
+cd GPlately-basics
+```
 
 ## Repository Structure
 
